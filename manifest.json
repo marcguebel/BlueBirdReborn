@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "name": "Blue bird reborn",
+    "version": "0.1",
+    "description": "Revive the blue bird",
+    "content_scripts": [
+        {
+            "matches": ["https://twitter.com/*"],
+            "js": ["script.js"]
+        }
+    ],
+        "icons": {
+            "16": "logo.png",
+            "48": "logo.png",
+            "128": "logo.png"
+        }
+  }
+  
