@@ -9,6 +9,12 @@
             "js": ["script.js"]
         }
     ],
+    "web_accessible_resources": [
+        {
+            "resources": [ "favicon.ico" ],
+            "matches": [ "https://twitter.com/*" ]
+        }
+    ],
     "icons": {
         "16": "icon16.png",
         "32": "icon32.png",
