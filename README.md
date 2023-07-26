@@ -8,7 +8,13 @@ The Blue bird reborn is a Chrome browser extension that allows users to replace 
 
 ## Installation
 
-Follow these simple steps to install the Old Twitter Logo Restorer extension:
+follow these simple steps to install the Old Twitter Logo Restorer extension :
+
+### Install from chrome web store
+
+Extension is now available on [chrome web store](https://chrome.google.com/webstore/detail/blue-bird-reborn/odfkgmpgkcfdkpdpnofepbagjjgcalba)
+
+### Install from github
 
 1. Download the extension files from the [releases](https://github.com/marcguebel/BlueBirdReborn/releases) section of this repository.
 
